@@ -129,7 +129,7 @@ async function GetBody() {
                 `[${$.name}] PKC特效关注有礼店铺id✅: 成功, export jd_wxShopGiftId='${gzylBodyVal}'`
             );
             $.msg($.name, `获取特效关注有礼店铺id: 成功🎉`, `export jd_wxShopGiftId="${gzylBodyVal}"`);
-            await sendNotify(`#PKC皮卡车\nexport jd_wxShopGiftId="${gzylBodyVal}" #PKC特效关注有礼店铺id`, ``)
+            await sendNotify(`#船长特效关注\nexport jd_wxShopGiftId="${gzylBodyVal}" #船长特效关注有礼店铺id`, ``)
         };
         $done();
     }
