@@ -78,7 +78,7 @@
         "jd_wxShopGiftId"
       ],
       "descs_html": [
-        "<h4 align=\"center\">脚本说明点击查看<a href=\"https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js\">脚本注释</a></h4>"
+        "<h4 align=\"center\">脚本说明点击查看<a href=\"https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js\">脚本注释</a></h4>"
       ],
       "settings": [
 
@@ -92,7 +92,7 @@
       ],
       "author": "@Curtin",
       "repo": "https://github.com/seh23231/bb",
-      "script": "https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js",
+      "script": "https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js",
       "icons": [
         "https://gitee.com/curtinlv/img/raw/master/tx/pkc_3_135x135.png",
         "https://gitee.com/curtinlv/img/raw/master/tx/pkc_4_135x135.png"
