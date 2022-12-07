@@ -3,7 +3,7 @@
   "name": "Curtin脚本订阅",
   "author": "@Curtin",
   "icon": "https://gitee.com/curtinlv/img/raw/master/tx.png",
-  "repo": "https://github.com/curtinlv/gd",
+  "repo": "https://github.com/seh23231/bb",
   "apps": [
     {
       "id": "telegram",
@@ -61,72 +61,11 @@
         }
       ],
       "author": "@Curtin",
-      "repo": "https://github.com/curtinlv/gd",
+      "repo": "https://github.com/seh23231/bb",
       "script": "#",
       "icons": [
         "https://gitee.com/curtinlv/img/raw/master/tx/pkc_7_135x135.png",
         "https://gitee.com/curtinlv/img/raw/master/tx/pkc_7_135x135.png"
-      ]
-
-
-    },
-
-    {
-      "id": "zjd",
-      "name": "赚京豆-瓜分京豆",
-      "author": "@Curtin",
-      "keys": [
-        "zjdbody"
-      ],
-      "descs_html": [
-        "<h4 align=\"center\">脚本说明点击查看<a href=\"https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/jk_script/pkc_zjd.js\">脚本注释</a></h4>"
-      ],
-      "settings": [
-
-        {
-          "id": "zjdbody",
-          "name": "赚京豆助力Body",
-          "val": "",
-          "type": "text",
-          "desc": "赚京豆助力Body"
-        }
-      ],
-      "author": "@Curtin",
-      "repo": "https://github.com/curtinlv/gd",
-      "script": "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/jk_script/pkc_zjd.js",
-      "icons": [
-        "https://gitee.com/curtinlv/img/raw/master/tx/pkc_4_135x135.png",
-        "https://gitee.com/curtinlv/img/raw/master/tx/pkc_4_135x135.png"
-      ]
-
-
-    },
-     {
-      "id": "pkc_gzyl",
-      "name": "PKC关注有礼",
-      "author": "@Curtin",
-      "keys": [
-        "PKC_GZYL"
-      ],
-      "descs_html": [
-        "<h4 align=\"center\">脚本说明点击查看<a href=\"https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/jk_script/pkc_gzyl.js\">脚本注释</a></h4>"
-      ],
-      "settings": [
-
-        {
-          "id": "PKC_GZYL",
-          "name": "PKC关注有礼Body",
-          "val": "",
-          "type": "text",
-          "desc": "PKC关注有礼Body"
-        }
-      ],
-      "author": "@Curtin",
-      "repo": "https://github.com/curtinlv/gd",
-      "script": "https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/jk_script/pkc_gzyl.js",
-      "icons": [
-        "https://gitee.com/curtinlv/img/raw/master/tx/pkc_2_135x135.png",
-        "https://gitee.com/curtinlv/img/raw/master/tx/pkc_2_135x135.png"
       ]
 
 
@@ -152,7 +91,7 @@
         }
       ],
       "author": "@Curtin",
-      "repo": "https://github.com/curtinlv/gd",
+      "repo": "https://github.com/seh23231/bb",
       "script": "https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js",
       "icons": [
         "https://gitee.com/curtinlv/img/raw/master/tx/pkc_3_135x135.png",
