@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/seh23231/bb/main/sh/cx.conf, tag=订阅-Curtin
 
 [task_local]
 #获取body后执行
-10 10 * * * https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/jk_script/jd_wxShopGiftId.js, tag=PKC-特效关注有礼, enabled=false
+10 10 * * * https://raw.githubusercontent.com/seh23231/bb/main/sh/txgzyl.js, tag=PKC-特效关注有礼, enabled=false
 
 
 */
