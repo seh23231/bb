@@ -10,16 +10,16 @@ export jd_wxShopGiftId=""
 
 圈x或v2p：
 可在boxjs(皮卡车-TG推送)设置tg推送，获取变量自动给机器人发送，实现自助式监控。
-boxjs订阅：https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/boxjs.json
+boxjs订阅：https://raw.githubusercontent.com/seh23231/bb/main/sh/boxjs.json
 
 
 
 兼容圈x、v2p
-#【圈x】重写订阅地址: https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/cx.conf
+#【圈x】重写订阅地址: https://raw.githubusercontent.com/seh23231/bb/main/sh/cx.conf
 #【v2p】重写订阅地址: https://git.metauniverse-cn.com/https://raw.githubusercontent.com/curtinlv/gd/main/dy/cx_v2p.json
 
 [rewrite_remote]
-https://lk.txydl.cf/https://raw.githubusercontent.com/seh23231/bb/main/sh/cx.conf, tag=订阅-Curtin, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/seh23231/bb/main/sh/cx.conf, tag=订阅-Curtin, update-interval=172800, opt-parser=false, enabled=true
 
 [task_local]
 #获取body后执行
